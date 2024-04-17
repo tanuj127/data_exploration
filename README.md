@@ -9,3 +9,5 @@ Simply by inputting-
 
 Google app password can be easily generated which will stay unique for your email ID. 
 
+Project no 2- Weather Data Extraction Day wise for each District in India. This code accepts a csv that has Latitude, Longitude, District Name, State name for India and returns their weather data. Raw Data will be generated which can be transformed later. 
+One can give a date range, weather parameters as Input. Kindly refer https://power.larc.nasa.gov/data-access-viewer/ for checking parameters. 
